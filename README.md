@@ -1,7 +1,8 @@
                                        # LAB2-ParaProgram-
 Задание:	Модифицировать программу из л/р №1 для параллельной работы по технологии OpenMP
 
-Time with OMP
+Time with OMP:
+
 Matrix's size is: 100 Def meth's time: 3
 
 Matrix's size is: 200 Def meth's time: 10
